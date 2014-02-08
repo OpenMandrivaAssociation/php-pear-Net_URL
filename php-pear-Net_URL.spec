@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.15
-Release:	9
+Release:	10
 Summary:	Easy parsing of URLs
 License:	PHP License
 Group:		Development/PHP
