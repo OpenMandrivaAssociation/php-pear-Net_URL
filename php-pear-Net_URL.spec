@@ -5,7 +5,7 @@
 Summary:	Easy parsing of URLs
 Name:		php-pear-%{modname}
 Version:	1.0.15
-Release:	17
+Release:	18
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/Net_URL/
