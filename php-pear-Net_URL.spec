@@ -8,7 +8,7 @@ Version:	1.0.15
 Release:	18
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/Net_URL/
+Url:		https://pear.php.net/package/Net_URL/
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
